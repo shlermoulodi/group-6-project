@@ -4,4 +4,8 @@ public class Main {
         System.out.println("testing ludde2");
 
     }
+
+    public static void writeFrederik() {
+        System.out.println("Hej Frederik");
+    }
 }
